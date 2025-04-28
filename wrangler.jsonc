@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "little-grass-e80e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a5c80f43-428c-40e9-872a-5780bae6420b",
+      "database_name": "crimson-butterfly-cef5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
